@@ -30,7 +30,7 @@
 	.login{
 
 		.name{
-			width: 100px;
+			
 		}
 	}
 </style>

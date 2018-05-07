@@ -8,10 +8,10 @@ import Vuex from 'vuex'
 import store from './vuex/store'
 // import store from '@/vuex/store.js' // vuex，同上
 
-// import ElementUI from 'element-ui'
-// import 'element-ui/lib/theme-chalk/index.css'
+import ElementUI from 'element-ui'
+import 'element-ui/lib/theme-chalk/index.css'
 
-// Vue.use(ElementUI)
+Vue.use(ElementUI)
 
 Vue.config.productionTip = false
 
